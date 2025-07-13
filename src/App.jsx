@@ -4,8 +4,8 @@ import ReactHooksForm from './components/react-hooks-form/ReactHooksForm.jsx';
 export default function App() {
 	return (
 		<>
-			<ViteForm />
-			{/* <ReactHooksForm /> */}
+			{/* <ViteForm />
+			<ReactHooksForm /> */}
 		</>
 	);
 }
